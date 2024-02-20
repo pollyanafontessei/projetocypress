@@ -1,0 +1,3 @@
+Page Object- abstração da minha page dentro do meu arquivo de pages.
+
+Benefícios: manutenção, organização, responsábilidades e curva de aprendizado.
