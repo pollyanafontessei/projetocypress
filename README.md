@@ -1,1 +1,1 @@
-Projeto cypress - automação features - aplicação Qazando - https://automationpratice.com.br/
+Projeto cypress - laboratório automação funcionalidades - aplicação Qazando - https://automationpratice.com.br/
